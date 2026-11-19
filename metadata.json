@@ -1,0 +1,6 @@
+{
+  "name": "AgroAssist - Agricultural Support Chatbot",
+  "description": "A beginner-friendly rule-based agricultural chatbot designed for farmers, providing guidance on crops, fertilizers, pest control, irrigation, soils, and weather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

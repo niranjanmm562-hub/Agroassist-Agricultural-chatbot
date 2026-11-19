@@ -1,0 +1,9 @@
+# AgroAssist - Agricultural Support Chatbot
+# Developer: Niranjan
+#
+# AgroAssist is built using the Python Standard Library (re, sys, time)
+# No external libraries are strictly required!
+#
+# Optional packages for colorful console and testing:
+colorama>=0.4.6
+pytest>=7.0.0
